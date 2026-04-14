@@ -62,7 +62,7 @@ Used Python (pandas + matplotlib) to generate:
 
 Example output:
 
-![Example Chart](images/North_Garage_Busiest_Hours.png)
+![Example Chart](Images/North_Garage_Busiest_Hours.png)
 
 ---
 
