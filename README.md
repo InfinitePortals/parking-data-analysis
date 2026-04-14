@@ -4,7 +4,7 @@
 
 This project analyzes parking garage utilization at San Jose State University by building an end-to-end data pipeline that collects, processes, and visualizes real-world parking data.
 
-Using Python, SQL, and automated data collection via a Raspberry Pi, I gathered over 28,000 observations and performed time-series analysis to identify peak usage patterns across garages and weekdays.
+Using Python, SQL, and automated data collection via a Raspberry Pi, I gathered over 29,000 observations and performed time-series analysis to identify peak usage patterns across garages and weekdays.
 
 ---
 
