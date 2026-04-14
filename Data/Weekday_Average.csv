@@ -1,0 +1,481 @@
+garage_name,weekday,collected_hour,avg_percent_full
+North Garage,1,0,0.553191489361702
+North Garage,1,1,0.978723404255319
+North Garage,1,2,1.0
+North Garage,1,3,1.0
+North Garage,1,4,1.0
+North Garage,1,5,1.0
+North Garage,1,6,2.0
+North Garage,1,7,12.6666666666667
+North Garage,1,8,44.9302325581395
+North Garage,1,9,85.5106382978723
+North Garage,1,10,94.8478260869565
+North Garage,1,11,95.804347826087
+North Garage,1,12,94.695652173913
+North Garage,1,13,93.8510638297872
+North Garage,1,14,92.0652173913043
+North Garage,1,15,85.1489361702128
+North Garage,1,16,1.48837209302326
+North Garage,1,17,1.3125
+North Garage,1,18,1.41666666666667
+North Garage,1,19,1.3125
+North Garage,1,20,1.25
+North Garage,1,21,1.02127659574468
+North Garage,1,22,0.75
+North Garage,1,23,0.666666666666667
+North Garage,2,0,29.3125
+North Garage,2,1,3.35416666666667
+North Garage,2,2,0.8125
+North Garage,2,3,0.520833333333333
+North Garage,2,4,0.5
+North Garage,2,5,0.717391304347826
+North Garage,2,6,1.79166666666667
+North Garage,2,7,11.6170212765957
+North Garage,2,8,42.3409090909091
+North Garage,2,9,83.5957446808511
+North Garage,2,10,91.8541666666667
+North Garage,2,11,97.2083333333333
+North Garage,2,12,95.1276595744681
+North Garage,2,13,95.1458333333333
+North Garage,2,14,92.3829787234042
+North Garage,2,15,84.8541666666667
+North Garage,2,16,79.6041666666667
+North Garage,2,17,70.9791666666667
+North Garage,2,18,63.8510638297872
+North Garage,2,19,56.0208333333333
+North Garage,2,20,45.1063829787234
+North Garage,2,21,33.2291666666667
+North Garage,2,22,31.3913043478261
+North Garage,2,23,30.1702127659574
+North Garage,3,0,22.0625
+North Garage,3,1,2.60416666666667
+North Garage,3,2,0.74468085106383
+North Garage,3,3,0.702127659574468
+North Garage,3,4,0.708333333333333
+North Garage,3,5,0.844444444444444
+North Garage,3,6,1.60416666666667
+North Garage,3,7,12.1276595744681
+North Garage,3,8,45.0212765957447
+North Garage,3,9,89.3958333333333
+North Garage,3,10,95.6086956521739
+North Garage,3,11,97.1875
+North Garage,3,12,95.5
+North Garage,3,13,95.0
+North Garage,3,14,91.2708333333333
+North Garage,3,15,81.125
+North Garage,3,16,74.6170212765958
+North Garage,3,17,61.6595744680851
+North Garage,3,18,54.3541666666667
+North Garage,3,19,48.1041666666667
+North Garage,3,20,38.7083333333333
+North Garage,3,21,26.5
+North Garage,3,22,23.5
+North Garage,3,23,22.3958333333333
+North Garage,4,0,4.5
+North Garage,4,1,1.16666666666667
+North Garage,4,2,0.875
+North Garage,4,3,0.804347826086957
+North Garage,4,4,0.553191489361702
+North Garage,4,5,0.829787234042553
+North Garage,4,6,1.72916666666667
+North Garage,4,7,13.7708333333333
+North Garage,4,8,48.7021276595745
+North Garage,4,9,80.6808510638298
+North Garage,4,10,92.3541666666667
+North Garage,4,11,94.8541666666667
+North Garage,4,12,92.6382978723404
+North Garage,4,13,92.0425531914894
+North Garage,4,14,87.7708333333333
+North Garage,4,15,78.6595744680851
+North Garage,4,16,74.75
+North Garage,4,17,63.468085106383
+North Garage,4,18,53.9375
+North Garage,4,19,43.875
+North Garage,4,20,29.6382978723404
+North Garage,4,21,9.58333333333333
+North Garage,4,22,6.1875
+North Garage,4,23,5.1063829787234
+North Garage,5,0,3.5531914893617
+North Garage,5,1,0.829787234042553
+North Garage,5,2,0.125
+North Garage,5,3,0.0
+North Garage,5,4,0.0
+North Garage,5,5,0.0212765957446809
+North Garage,5,6,0.5625
+North Garage,5,7,3.93181818181818
+North Garage,5,8,16.7659574468085
+North Garage,5,9,29.5208333333333
+North Garage,5,10,36.063829787234
+North Garage,5,11,37.8222222222222
+North Garage,5,12,36.875
+North Garage,5,13,34.1489361702128
+North Garage,5,14,30.4042553191489
+North Garage,5,15,26.8666666666667
+North Garage,5,16,70.75
+North Garage,5,17,58.0
+North Garage,5,18,47.0
+North Garage,5,19,37.8478260869565
+North Garage,5,20,25.9787234042553
+North Garage,5,21,10.25
+North Garage,5,22,6.32608695652174
+North Garage,5,23,4.65957446808511
+South Campus Garage,1,0,8.93617021276596
+South Campus Garage,1,1,1.48936170212766
+South Campus Garage,1,2,0.0
+South Campus Garage,1,3,0.0
+South Campus Garage,1,4,0.0
+South Campus Garage,1,5,0.0
+South Campus Garage,1,6,0.0416666666666667
+South Campus Garage,1,7,1.04166666666667
+South Campus Garage,1,8,4.55813953488372
+South Campus Garage,1,9,11.9574468085106
+South Campus Garage,1,10,26.7826086956522
+South Campus Garage,1,11,33.804347826087
+South Campus Garage,1,12,35.2391304347826
+South Campus Garage,1,13,34.6382978723404
+South Campus Garage,1,14,29.804347826087
+South Campus Garage,1,15,22.3404255319149
+South Campus Garage,1,16,16.906976744186
+South Campus Garage,1,17,14.2916666666667
+South Campus Garage,1,18,10.0
+South Campus Garage,1,19,9.58333333333333
+South Campus Garage,1,20,9.58333333333333
+South Campus Garage,1,21,9.65957446808511
+South Campus Garage,1,22,9.14583333333333
+South Campus Garage,1,23,8.85416666666667
+South Campus Garage,2,0,0.0
+South Campus Garage,2,1,0.0
+South Campus Garage,2,2,0.0
+South Campus Garage,2,3,0.0
+South Campus Garage,2,4,0.0
+South Campus Garage,2,5,0.0217391304347826
+South Campus Garage,2,6,0.8125
+South Campus Garage,2,7,2.21276595744681
+South Campus Garage,2,8,8.29545454545454
+South Campus Garage,2,9,12.4468085106383
+South Campus Garage,2,10,21.5833333333333
+South Campus Garage,2,11,30.6458333333333
+South Campus Garage,2,12,35.1063829787234
+South Campus Garage,2,13,35.7083333333333
+South Campus Garage,2,14,30.0212765957447
+South Campus Garage,2,15,21.9791666666667
+South Campus Garage,2,16,15.7916666666667
+South Campus Garage,2,17,9.25
+South Campus Garage,2,18,5.38297872340426
+South Campus Garage,2,19,4.47916666666667
+South Campus Garage,2,20,4.04255319148936
+South Campus Garage,2,21,2.4375
+South Campus Garage,2,22,0.956521739130435
+South Campus Garage,2,23,0.0
+South Campus Garage,3,0,0.75
+South Campus Garage,3,1,0.0625
+South Campus Garage,3,2,0.0
+South Campus Garage,3,3,0.0
+South Campus Garage,3,4,0.0
+South Campus Garage,3,5,0.0
+South Campus Garage,3,6,0.0416666666666667
+South Campus Garage,3,7,0.957446808510638
+South Campus Garage,3,8,4.57446808510638
+South Campus Garage,3,9,11.4791666666667
+South Campus Garage,3,10,26.9130434782609
+South Campus Garage,3,11,33.7708333333333
+South Campus Garage,3,12,34.8695652173913
+South Campus Garage,3,13,33.9130434782609
+South Campus Garage,3,14,29.4791666666667
+South Campus Garage,3,15,21.9375
+South Campus Garage,3,16,15.4468085106383
+South Campus Garage,3,17,9.08510638297872
+South Campus Garage,3,18,5.22916666666667
+South Campus Garage,3,19,4.4375
+South Campus Garage,3,20,4.9375
+South Campus Garage,3,21,3.45833333333333
+South Campus Garage,3,22,1.75
+South Campus Garage,3,23,0.75
+South Campus Garage,4,0,0.0
+South Campus Garage,4,1,0.0
+South Campus Garage,4,2,0.0
+South Campus Garage,4,3,0.0
+South Campus Garage,4,4,0.0
+South Campus Garage,4,5,0.0
+South Campus Garage,4,6,0.0416666666666667
+South Campus Garage,4,7,0.8125
+South Campus Garage,4,8,3.19148936170213
+South Campus Garage,4,9,7.08510638297872
+South Campus Garage,4,10,18.2083333333333
+South Campus Garage,4,11,25.7916666666667
+South Campus Garage,4,12,29.1276595744681
+South Campus Garage,4,13,29.531914893617
+South Campus Garage,4,14,24.875
+South Campus Garage,4,15,18.0
+South Campus Garage,4,16,15.6041666666667
+South Campus Garage,4,17,9.95744680851064
+South Campus Garage,4,18,9.1875
+South Campus Garage,4,19,11.9166666666667
+South Campus Garage,4,20,10.8510638297872
+South Campus Garage,4,21,8.6875
+South Campus Garage,4,22,1.10416666666667
+South Campus Garage,4,23,0.0
+South Campus Garage,5,0,0.0
+South Campus Garage,5,1,0.0
+South Campus Garage,5,2,0.0
+South Campus Garage,5,3,0.0
+South Campus Garage,5,4,0.0
+South Campus Garage,5,5,0.0
+South Campus Garage,5,6,0.0
+South Campus Garage,5,7,0.0681818181818182
+South Campus Garage,5,8,0.340425531914894
+South Campus Garage,5,9,0.583333333333333
+South Campus Garage,5,10,0.765957446808511
+South Campus Garage,5,11,1.08888888888889
+South Campus Garage,5,12,1.5
+South Campus Garage,5,13,1.74468085106383
+South Campus Garage,5,14,1.82978723404255
+South Campus Garage,5,15,1.75555555555556
+South Campus Garage,5,16,12.3333333333333
+South Campus Garage,5,17,7.1875
+South Campus Garage,5,18,4.23404255319149
+South Campus Garage,5,19,3.91304347826087
+South Campus Garage,5,20,4.31914893617021
+South Campus Garage,5,21,2.25
+South Campus Garage,5,22,0.956521739130435
+South Campus Garage,5,23,0.0
+South Garage,1,0,41.2340425531915
+South Garage,1,1,24.7659574468085
+South Garage,1,2,22.5652173913043
+South Garage,1,3,23.1777777777778
+South Garage,1,4,23.2340425531915
+South Garage,1,5,23.5416666666667
+South Garage,1,6,27.0625
+South Garage,1,7,40.1875
+South Garage,1,8,68.5116279069767
+South Garage,1,9,94.6170212765958
+South Garage,1,10,98.6739130434783
+South Garage,1,11,99.8695652173913
+South Garage,1,12,100.0
+South Garage,1,13,100.0
+South Garage,1,14,100.0
+South Garage,1,15,100.0
+South Garage,1,16,39.8372093023256
+South Garage,1,17,37.7083333333333
+South Garage,1,18,38.2083333333333
+South Garage,1,19,38.0
+South Garage,1,20,36.8125
+South Garage,1,21,37.5531914893617
+South Garage,1,22,39.0625
+South Garage,1,23,40.375
+South Garage,2,0,75.0208333333333
+South Garage,2,1,30.625
+South Garage,2,2,23.0
+South Garage,2,3,23.0
+South Garage,2,4,23.0416666666667
+South Garage,2,5,24.6086956521739
+South Garage,2,6,28.5416666666667
+South Garage,2,7,42.7659574468085
+South Garage,2,8,70.5909090909091
+South Garage,2,9,93.4893617021277
+South Garage,2,10,99.7291666666667
+South Garage,2,11,100.0
+South Garage,2,12,100.0
+South Garage,2,13,100.0
+South Garage,2,14,100.0
+South Garage,2,15,100.0
+South Garage,2,16,99.9375
+South Garage,2,17,99.0
+South Garage,2,18,98.0
+South Garage,2,19,95.0
+South Garage,2,20,87.9574468085106
+South Garage,2,21,80.2291666666667
+South Garage,2,22,76.1304347826087
+South Garage,2,23,75.3404255319149
+South Garage,3,0,64.25
+South Garage,3,1,29.875
+South Garage,3,2,23.0
+South Garage,3,3,23.0
+South Garage,3,4,23.0
+South Garage,3,5,23.6444444444444
+South Garage,3,6,27.3541666666667
+South Garage,3,7,39.9574468085106
+South Garage,3,8,68.8936170212766
+South Garage,3,9,95.8541666666667
+South Garage,3,10,100.0
+South Garage,3,11,100.0
+South Garage,3,12,100.0
+South Garage,3,13,100.0
+South Garage,3,14,100.0
+South Garage,3,15,100.0
+South Garage,3,16,93.9574468085106
+South Garage,3,17,89.1489361702128
+South Garage,3,18,86.7916666666667
+South Garage,3,19,82.125
+South Garage,3,20,76.3333333333333
+South Garage,3,21,68.1458333333333
+South Garage,3,22,65.1666666666667
+South Garage,3,23,64.375
+South Garage,4,0,66.5625
+South Garage,4,1,29.2291666666667
+South Garage,4,2,23.0
+South Garage,4,3,23.0
+South Garage,4,4,23.0
+South Garage,4,5,24.2553191489362
+South Garage,4,6,28.0625
+South Garage,4,7,41.875
+South Garage,4,8,67.6595744680851
+South Garage,4,9,90.4255319148936
+South Garage,4,10,98.9166666666667
+South Garage,4,11,100.0
+South Garage,4,12,100.0
+South Garage,4,13,100.0
+South Garage,4,14,100.0
+South Garage,4,15,100.0
+South Garage,4,16,96.9166666666667
+South Garage,4,17,95.5106382978723
+South Garage,4,18,94.6875
+South Garage,4,19,90.4791666666667
+South Garage,4,20,84.4042553191489
+South Garage,4,21,74.1041666666667
+South Garage,4,22,68.0208333333333
+South Garage,4,23,66.6382978723404
+South Garage,5,0,69.4042553191489
+South Garage,5,1,30.936170212766
+South Garage,5,2,23.0
+South Garage,5,3,23.0869565217391
+South Garage,5,4,23.0
+South Garage,5,5,23.531914893617
+South Garage,5,6,25.2083333333333
+South Garage,5,7,29.1136363636364
+South Garage,5,8,40.9574468085106
+South Garage,5,9,52.0625
+South Garage,5,10,60.1702127659574
+South Garage,5,11,62.2888888888889
+South Garage,5,12,62.5833333333333
+South Garage,5,13,61.8936170212766
+South Garage,5,14,60.3404255319149
+South Garage,5,15,58.5555555555556
+South Garage,5,16,98.9583333333333
+South Garage,5,17,93.6458333333333
+South Garage,5,18,89.5106382978723
+South Garage,5,19,85.0217391304348
+South Garage,5,20,80.3191489361702
+South Garage,5,21,73.9791666666667
+South Garage,5,22,70.4347826086957
+South Garage,5,23,69.6382978723404
+West Garage,1,0,17.9148936170213
+West Garage,1,1,17.3617021276596
+West Garage,1,2,17.1739130434783
+West Garage,1,3,17.1333333333333
+West Garage,1,4,17.2127659574468
+West Garage,1,5,17.2916666666667
+West Garage,1,6,18.7916666666667
+West Garage,1,7,31.125
+West Garage,1,8,62.1627906976744
+West Garage,1,9,94.9574468085106
+West Garage,1,10,98.3260869565217
+West Garage,1,11,98.7391304347826
+West Garage,1,12,96.8913043478261
+West Garage,1,13,95.9787234042553
+West Garage,1,14,93.9565217391304
+West Garage,1,15,87.7659574468085
+West Garage,1,16,19.2790697674419
+West Garage,1,17,18.875
+West Garage,1,18,18.2083333333333
+West Garage,1,19,18.0625
+West Garage,1,20,17.9375
+West Garage,1,21,17.7446808510638
+West Garage,1,22,17.9791666666667
+West Garage,1,23,17.9166666666667
+West Garage,2,0,25.6875
+West Garage,2,1,20.0208333333333
+West Garage,2,2,19.0
+West Garage,2,3,19.0
+West Garage,2,4,19.0
+West Garage,2,5,19.3260869565217
+West Garage,2,6,20.6666666666667
+West Garage,2,7,34.5106382978723
+West Garage,2,8,64.9545454545455
+West Garage,2,9,92.5531914893617
+West Garage,2,10,99.4166666666667
+West Garage,2,11,100.0
+West Garage,2,12,100.0
+West Garage,2,13,99.0
+West Garage,2,14,96.8297872340426
+West Garage,2,15,86.5416666666667
+West Garage,2,16,82.6041666666667
+West Garage,2,17,77.2708333333333
+West Garage,2,18,65.9787234042553
+West Garage,2,19,54.4166666666667
+West Garage,2,20,41.6595744680851
+West Garage,2,21,30.9375
+West Garage,2,22,27.6304347826087
+West Garage,2,23,26.1276595744681
+West Garage,3,0,22.6458333333333
+West Garage,3,1,19.5833333333333
+West Garage,3,2,18.8510638297872
+West Garage,3,3,18.5744680851064
+West Garage,3,4,18.75
+West Garage,3,5,18.8444444444444
+West Garage,3,6,20.5625
+West Garage,3,7,33.3191489361702
+West Garage,3,8,63.9787234042553
+West Garage,3,9,96.5833333333333
+West Garage,3,10,100.0
+West Garage,3,11,100.0
+West Garage,3,12,100.0
+West Garage,3,13,99.1304347826087
+West Garage,3,14,96.9583333333333
+West Garage,3,15,87.7708333333333
+West Garage,3,16,77.3617021276596
+West Garage,3,17,66.063829787234
+West Garage,3,18,57.9583333333333
+West Garage,3,19,49.9375
+West Garage,3,20,39.7291666666667
+West Garage,3,21,28.625
+West Garage,3,22,25.0416666666667
+West Garage,3,23,23.3125
+West Garage,4,0,23.125
+West Garage,4,1,19.6041666666667
+West Garage,4,2,18.7708333333333
+West Garage,4,3,18.7391304347826
+West Garage,4,4,18.7659574468085
+West Garage,4,5,19.2978723404255
+West Garage,4,6,20.6041666666667
+West Garage,4,7,32.8333333333333
+West Garage,4,8,61.8723404255319
+West Garage,4,9,90.7659574468085
+West Garage,4,10,98.2916666666667
+West Garage,4,11,99.875
+West Garage,4,12,97.7021276595745
+West Garage,4,13,95.8723404255319
+West Garage,4,14,91.5625
+West Garage,4,15,84.0851063829787
+West Garage,4,16,82.4166666666667
+West Garage,4,17,75.9574468085106
+West Garage,4,18,67.3333333333333
+West Garage,4,19,56.3958333333333
+West Garage,4,20,43.9148936170213
+West Garage,4,21,30.5
+West Garage,4,22,26.2708333333333
+West Garage,4,23,24.1489361702128
+West Garage,5,0,23.2978723404255
+West Garage,5,1,19.6382978723404
+West Garage,5,2,18.9375
+West Garage,5,3,18.7608695652174
+West Garage,5,4,18.3958333333333
+West Garage,5,5,18.468085106383
+West Garage,5,6,19.0625
+West Garage,5,7,22.3409090909091
+West Garage,5,8,32.1702127659574
+West Garage,5,9,44.3333333333333
+West Garage,5,10,53.2553191489362
+West Garage,5,11,53.8
+West Garage,5,12,52.0625
+West Garage,5,13,47.8085106382979
+West Garage,5,14,43.2978723404255
+West Garage,5,15,38.0666666666667
+West Garage,5,16,76.8958333333333
+West Garage,5,17,66.6666666666667
+West Garage,5,18,57.468085106383
+West Garage,5,19,47.6739130434783
+West Garage,5,20,38.4893617021277
+West Garage,5,21,29.9166666666667
+West Garage,5,22,26.3913043478261
+West Garage,5,23,24.2553191489362
